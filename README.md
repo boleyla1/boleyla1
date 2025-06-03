@@ -56,7 +56,7 @@
 ## 📫 ارتباط با من
 
 - ایمیل: boleyla.mehrshad1@gmail.com  
-- لینکدین: [linkedin.com/in/mehrshad-bolila](https://linkedin.com/in/mehrshad-bolila)  
+- لینکدین: [linkedin.com/in/mehrshad-boleyla](https://www.linkedin.com/in/mehrshad-boleyla-3079b12b8)  
 - وب‌سایت: [boleyla.com](https://boleyla.com)  
 
 <!-- ================== English ================== -->
@@ -117,5 +117,5 @@
 ## 📫 Contact Me
 
 - Email: boleyla.mehrshad1@gmail.com  
-- LinkedIn: [linkedin.com/in/mehrshad-bolila](https://linkedin.com/in/mehrshad-bolila)  
+- LinkedIn: [linkedin.com/in/mehrshad-boleyla](https://www.linkedin.com/in/mehrshad-boleyla-3079b12b8)  
 - Website: [boleyla.com](https://boleyla.com)  
