@@ -1,42 +1,111 @@
+<!-- ================== فارسی ================== -->
+
 <h1 align="center">سلام، من مهرشاد بلیلا هستم 👋</h1>
 
 <p align="center">
-  متخصص Django و توسعه‌دهنده بک‌اند با تمرکز بر ساخت اپ‌های سریع، امن و مقیاس‌پذیر
+  توسعه‌دهنده بک‌اند حرفه‌ای با تخصص در Python و Django  
+  علاقه‌مند به توسعه هوش مصنوعی و ربات‌های تلگرام  
+  آماده همکاری ریموت یا در عمان 🇴🇲
 </p>
 
 ---
 
-## 🧠 درباره من
-- 🧰 تخصص اصلی: Python | Django | DRF | PostgreSQL | Docker
-- 💼 تجربه در: ساخت فروشگاه آنلاین، API ربات تلگرام، سیستم‌های لایسنس و پرداخت آنلاین
-- 🌍 در حال اپلای برای کار در عمان یا موقعیت ریموت
-- 📫 ایمیل: boleyla.mehrshad1@gmail.com  
-- 🖥️ نمونه‌کارها: [portfolio.mehrshad.dev](http://example.com)
+## 👨‍💻 درباره من
+
+- بیش از ۴ سال تجربه برنامه‌نویسی با Python و Django  
+- ساخت سایت‌های حرفه‌ای با Django  
+- توسعه پروژه‌های هوش مصنوعی و یادگیری ماشین  
+- طراحی و توسعه ربات‌های تلگرام کاربردی  
+- علاقه‌مند به یادگیری مداوم و ارائه راه‌حل‌های بهینه
 
 ---
 
-## 🔧 تکنولوژی‌هایی که بلدم
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+## 🛠️ مهارت‌ها
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-ff6f61?style=flat&logo=tensorflow&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)
 
 ---
 
-## 📈 آمار گیت‌هاب من
+## 📂 پروژه‌های کلیدی
+
+| پروژه                     | توضیح مختصر                                   |
+|---------------------------|----------------------------------------------|
+| 🌐 وب‌سایت Django          | توسعه سایت‌های حرفه‌ای با امکانات کامل       |
+| 🤖 توسعه هوش مصنوعی       | پروژه‌های AI و یادگیری ماشین کاربردی          |
+| 📱 ربات تلگرام             | ساخت ربات‌های تلگرام برای کاربردهای مختلف      |
+
+---
+
+## 📈 آمار GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehrshad-bolila&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrshad-bolila&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boleyla1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boleyla1&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
 
-## 📂 پروژه‌های مهم من
+## 📫 ارتباط با من
 
-| پروژه | توضیح |
-|-------|-------|
-| 🛒 digikala-clone | فروشگاه آنلاین با Django + Bootstrap |
-| 🎮 telegram-bot-api | ربات تحلیل زمان پست اینستاگرام |
-| 🧾 license-manager | سیستم فروش و اعتبارسنجی لایسنس برای اسکریپت‌ها |
+- ایمیل: boleyla.mehrshad1@gmail.com  
+- لینکدین: [linkedin.com/in/mehrshad-bolila](https://linkedin.com/in/mehrshad-bolila)  
+- وب‌سایت: [boleyla.com](https://boleyla.com)  
+
+<!-- ================== English ================== -->
+
+<h1 align="center">Hi, I'm Mehrshad Bolila 👋</h1>
+
+<p align="center">
+  Professional Backend Developer specialized in Python and Django  
+  Passionate about AI development and Telegram bots  
+  Open to remote work or opportunities in Oman 🇴🇲
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- Over 4 years of experience programming with Python and Django  
+- Building professional websites with Django  
+- Developing practical AI and machine learning projects  
+- Designing and developing functional Telegram bots  
+- Always eager to learn and provide optimized solutions
+
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-ff6f61?style=flat&logo=tensorflow&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)
+
+---
+
+## 📂 Key Projects
+
+| Project                  | Brief Description                             |
+|--------------------------|----------------------------------------------|
+| 🌐 Django Website         | Developing full-featured professional sites  |
+| 🤖 AI Development         | Practical AI and machine learning projects    |
+| 📱 Telegram Bot           | Building Telegram bots for various uses       |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boleyla1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boleyla1&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- Email: boleyla.mehrshad1@gmail.com  
+- LinkedIn: [linkedin.com/in/mehrshad-bolila](https://linkedin.com/in/mehrshad-bolila)  
+- Website: [boleyla.com](https://boleyla.com)  
