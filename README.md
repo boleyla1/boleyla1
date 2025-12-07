@@ -61,7 +61,7 @@
 
 <!-- ================== English ================== -->
 
-<h1 align="center">Hi, I'm Mehrshad Bolila 👋</h1>
+<h1 align="center">Hi, I'm Mehrshad Boleyla 👋</h1>
 
 <p align="center">
   Professional Backend Developer specialized in Python and Django  
